@@ -1,7 +1,7 @@
 # OrgaDatosTP2
-# ORGANIZACION DE DATOS [66.20]: 
+# ORGANIZACION DE DATOS [75.06]: 
 
-Trabajo Práctico numero 2 de la materia Organizacion de Computadoras de FIUBA
+Trabajo Práctico numero 2 de la materia Organizacion de Datos de FIUBA
 
 ## Grupo 11
 
